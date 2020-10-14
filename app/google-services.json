@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320975500466",
+    "firebase_url": "https://accloud-e8c6d.firebaseio.com",
+    "project_id": "accloud-e8c6d",
+    "storage_bucket": "accloud-e8c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320975500466:android:76ca844e4a9c5d9742c5ab",
+        "android_client_info": {
+          "package_name": "in.ac.accloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320975500466-vlae5hku26v46pmj1oo7tj7m952e7u9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.accloud",
+            "certificate_hash": "7601b085faa6bece79f399ef0fd3e74407783ee2"
+          }
+        },
+        {
+          "client_id": "320975500466-9ideuvh5gj1r8g34nce19meqq7no7rtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSnkK-y6w-feEyJ_CAVzM5oub3xASofg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320975500466-9ideuvh5gj1r8g34nce19meqq7no7rtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
